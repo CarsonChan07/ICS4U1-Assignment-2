@@ -1,4 +1,4 @@
-h1 {
+h2 {
     color:rgb(184, 23, 55);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     letter-spacing:-0.5mm;
@@ -7,4 +7,14 @@ h1 {
 
 body {
     background-color:#1c1c1d;
+}
+
+button {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size:large;
+    background-color: #1e1e1f;
+    border-radius: 8px;
+    float: inline-end;
+    border-width: 2px;
 }
